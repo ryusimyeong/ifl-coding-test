@@ -23,6 +23,7 @@ for (let i = 0; i < first.length; i++) {
 }
 
 // 두 번째 밭을 90도로 돌리는데, 패턴을 파악하자 
+// 각 인덱스를 다 적어보면서 패턴을 파악한다.
 
 for (let i = 0; i < second.length; i++) {
   for (let j = 0; j < second[0].length; j++) {
